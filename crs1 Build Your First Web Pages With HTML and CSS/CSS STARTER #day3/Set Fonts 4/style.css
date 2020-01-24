@@ -1,0 +1,43 @@
+body {
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'American Typewriter';
+}
+
+#intro {
+  font-family: 'Andale Mono';
+}
+
+#article-1 {
+  font-family: 'Marker Felt';
+}
+
+#section-1 {
+  font-family: 'Luminari';
+}
+
+#section-2 {
+  font-family: 'Chalkboard';
+}
+
+p {
+  font-family: 'Bradley Hand';
+}
+
+#section-2-1 {
+  font-family: 'Gill Sans';
+}
+
+#section-2-2 {
+  font-family: 'Zapfino';
+}
+/* 
+#section-2 {
+  font-family: 'Futura';
+}
+
+#section-2-1 {
+  font-family: 'Bodoni';
+} */
