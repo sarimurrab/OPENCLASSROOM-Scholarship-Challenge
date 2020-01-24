@@ -1,0 +1,26 @@
+/* pixels */
+h1 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* ems */
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.125em;
+}
+
+/* percentages */
+h1 {
+    font-size: 300%;
+}
+
+p {
+    font-size: 112.5%;
+}
