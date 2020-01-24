@@ -1,0 +1,35 @@
+Body{
+	color:#9B088C;
+	background-color: #DCB269;
+}
+
+h1{
+	font-family: cursive;
+}
+
+h3{
+	color:green;
+}
+
+a{
+	color:green;
+	text-transform: none;
+	text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active{
+	background-color:black;
+}
+
+
+a:hover {
+    color: green ;
+    background-color: black;
+    text-transform: uppercase;
+    font-weight: 1000;
+    font-size: 20;
+}
