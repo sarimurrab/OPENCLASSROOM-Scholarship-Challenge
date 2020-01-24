@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#hex {
+  color: #1BDA76;
+}
+
+#rgb {
+  color: rgb(27, 218, 118)
+}
+
+#color-name {
+  color: LightGreen;
+}
+
+#hsl {
+  color: hsl(149, 88%, 48%);
+}
+
+#access {
+  background-color: #1BDA76;
+  padding: 20px;
+  color: #D61BDA;
+  width: 50%;
+  text-align: center;
+}
