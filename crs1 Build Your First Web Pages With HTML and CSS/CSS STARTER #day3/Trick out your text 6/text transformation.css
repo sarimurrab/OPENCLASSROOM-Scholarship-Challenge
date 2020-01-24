@@ -1,0 +1,43 @@
+a {
+    font-weight: normal;
+}
+
+a {
+    font-weight: bold;
+}
+
+a {
+    font-weight: 200;
+}
+
+a {
+    text-decoration: underline;
+}
+
+
+a {
+    text-decoration: line-through;
+}
+
+
+a {
+    text-decoration: wavy underline;
+}
+
+
+a {
+    font-weight: 200;
+    font-family: Helvetica;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #151814;
+}
+
+
+a {
+    font-weight: 200;
+    font-family: Helvetica;
+    text-decoration: none;
+    text-transform: lowercase;
+    color: #151814;
+}
