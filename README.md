@@ -11,7 +11,7 @@ In this chellenge, I learnt as:
 * Use tags and attributes to identify key information within a page
 * Identify and use correct CSS syntax
 * Apply CSS to HTML elements
-  ###### [Resource](https://openclassrooms.com/en/courses/5265446-build-your-first-web-pages-with-html-and-css) &nbsp; [Completion](https://openclassrooms.com/en/course-certificates/8509374400) :mortar_board:
+  ###### [Resource](https://openclassrooms.com/en/courses/5265446-build-your-first-web-pages-with-html-and-css){:target="_blank"} &nbsp; [Completion](https://openclassrooms.com/en/course-certificates/8509374400){:target="_blank"} :mortar_board:
 
 ## **2 : [Javascript Challenge](https://github.com/sarimurrab/OPENCLASSROOM-Scholarship/tree/master/Crs2%20Learn%20Programming%20With%20JavaScript)**
 In this chellenge, I learnt :
@@ -19,4 +19,4 @@ In this chellenge, I learnt :
 * How to use programming logic so your app does what you want it to.
 * How to manage errors and make your app communicate.
 * How to write readable code so you can more easily modify, maintain, and share your apps. 
-  ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript)
+  ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript){:target="_blank"}
