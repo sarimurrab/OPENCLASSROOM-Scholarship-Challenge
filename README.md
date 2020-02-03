@@ -12,4 +12,10 @@ In this chellenge, I learnt as:
 * Identify and use correct CSS syntax
 * Apply CSS to HTML elements
 
+## **2 : [Javascript Challenge](https://github.com/sarimurrab/OPENCLASSROOM-Scholarship/tree/master/Crs2%20Learn%20Programming%20With%20JavaScript)**
+In this chellenge, I learnt :
+* How to structure and group information in your app with data types.
+* How to use programming logic so your app does what you want it to.
+* How to manage errors and make your app communicate.
+* How to write readable code so you can more easily modify, maintain, and share your apps. 
 
