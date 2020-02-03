@@ -2,7 +2,7 @@
 OpenClassrooms is an online education platform for vocational training, providing courses in IT, technology, entrepreneurship, and digital skills. Courses are conducted fully online, through a mix of video resources, online reading, real-life projects and individual mentoring sessions. Openclassrooms provides Diplomas in diffrent specialization **France state**.
 
 ## In this challenge:
-## **1 : [Html and CSS Challenge](https://github.com/sarimurrab/OPENCLASSROOM-Scholarship/tree/master/crs1%20Build%20Your%20First%20Web%20Pages%20With%20HTML%20and%20CSS)**
+## **1 : [Html and CSS Challenge](https://github.com/sarimurrab/OPENCLASSROOM-Scholarship/tree/master/crs1%20Build%20Your%20First%20Web%20Pages%20With%20HTML%20and%20CSS)** ###### [Resource](https://openclassrooms.com/en/courses/5265446-build-your-first-web-pages-with-html-and-css)
 In this chellenge, I learnt as:
 * Build a first web page with HTML and CSS
 * Distinguish between HTML and CSS and identify their separate uses
