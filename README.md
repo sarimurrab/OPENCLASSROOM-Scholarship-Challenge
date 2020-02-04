@@ -19,4 +19,5 @@ In this chellenge, I learnt :
 * How to use programming logic so your app does what you want it to.
 * How to manage errors and make your app communicate.
 * How to write readable code so you can more easily modify, maintain, and share your apps. 
+* Test that a function does what it says
   ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript)
