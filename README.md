@@ -1,5 +1,5 @@
 # OPENCLASSROOM-Scholarship Challenge
-OpenClassrooms is an online education platform for vocational training, providing courses in IT, technology, entrepreneurship, and digital skills. Courses are conducted fully online, through a mix of video resources, online reading, real-life projects and individual mentoring sessions. Openclassrooms provides Diplomas in diffrent specialization **France state**.
+OpenClassrooms is an online education platform for vocational training, providing courses in IT, technology, entrepreneurship, and digital skills. Courses are conducted fully online, through a mix of video resources, online reading, real-life projects and individual mentoring sessions. Openclassrooms provides Diplomas in diffrent specialization recognized by **France state**.
 
 ## In this challenge:
 ## **1 : [Html and CSS Challenge](https://github.com/sarimurrab/OPENCLASSROOM-Scholarship/tree/master/crs1%20Build%20Your%20First%20Web%20Pages%20With%20HTML%20and%20CSS)** 
@@ -19,5 +19,7 @@ In this chellenge, I learnt :
 * How to use programming logic so your app does what you want it to.
 * How to manage errors and make your app communicate.
 * How to write readable code so you can more easily modify, maintain, and share your apps. 
-* Test that a function does what it says
+* Test that a function does what it says.
+* Debugging
+* Recursive Function.
   ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript)
