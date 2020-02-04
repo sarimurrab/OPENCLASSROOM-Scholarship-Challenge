@@ -20,7 +20,7 @@ In this chellenge, I learnt :
 * How to manage errors and make your app communicate.
 * How to write readable code so you can more easily modify, maintain, and share your apps. 
 * Test that a function does what it says.
-* Debugging
+* Debugging.
 * Recursive Function.
   ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript) &nbsp; [Completion](https://openclassrooms.com/en/course-certificates/9107920571) :mortar_board:
 
