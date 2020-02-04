@@ -22,4 +22,5 @@ In this chellenge, I learnt :
 * Test that a function does what it says.
 * Debugging
 * Recursive Function.
-  ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript)
+  ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript) &nbsp; [Completion](https://openclassrooms.com/en/course-certificates/9107920571) :mortar_board:
+
