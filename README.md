@@ -24,4 +24,4 @@ In this chellenge, I learnt :
 * Recursive Function.
   ###### [Resource](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript) &nbsp; [Completion](https://openclassrooms.com/en/course-certificates/9107920571) :mortar_board:
 
-## **3 : [Build Web Ap with ReactJS Challenge]()**
+## **3 : [Build Web App with ReactJS Challenge]()**
